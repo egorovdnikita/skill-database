@@ -24,7 +24,7 @@ description: Личный контекст владельца — проекты
 
 ## Обновление самого навыка
 
-Общие инструкции Database — `SKILL.md` в отдельном приватном `egorovdnikita/skill-database`. Личные сведения обновляются отдельно в CONTEXT.md; они не часть общего кода навыка.
+Общие инструкции Database — `SKILL.md` в отдельном публичном репозитории `egorovdnikita/skill-database`. Личные сведения обновляются отдельно в CONTEXT.md; они не часть общего кода навыка.
 
 Перед правкой проверь актуальную версию GitHub. На Mac запусти `python3 ~/.claude/skills/database/scripts/sync-skills.py sync`, правь общий файл `~/.claude/skills/database/SKILL.md`, затем снова выполни sync. Конфликт или ошибка синхронизации останавливают публикацию.
 
